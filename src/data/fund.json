@@ -1,0 +1,72 @@
+{
+  "currency": "$",
+  "balance": 1240.5,
+  "events": [
+    {
+      "id": "newyear",
+      "title": "New Year"
+    },
+    {
+      "id": "stationery",
+      "title": "Stationery"
+    },
+    {
+      "id": "theater",
+      "title": "Theater"
+    },
+    {
+      "id": "spring",
+      "title": "Spring Party"
+    }
+  ],
+  "payments": {
+    "1": {
+      "newyear": "paid",
+      "stationery": "paid",
+      "theater": "paid",
+      "spring": "paid"
+    },
+    "2": {
+      "newyear": "paid",
+      "stationery": "paid",
+      "theater": "paid",
+      "spring": "unpaid"
+    },
+    "3": {
+      "newyear": "paid",
+      "stationery": "unpaid",
+      "theater": "paid",
+      "spring": "paid"
+    },
+    "4": {
+      "newyear": "paid",
+      "stationery": "paid",
+      "theater": "paid",
+      "spring": "paid"
+    },
+    "5": {
+      "newyear": "unpaid",
+      "stationery": "unpaid",
+      "theater": "paid",
+      "spring": "unpaid"
+    },
+    "6": {
+      "newyear": "paid",
+      "stationery": "paid",
+      "theater": "unpaid",
+      "spring": "paid"
+    },
+    "7": {
+      "newyear": "paid",
+      "stationery": "paid",
+      "theater": "paid",
+      "spring": "unpaid"
+    },
+    "8": {
+      "newyear": "paid",
+      "stationery": "unpaid",
+      "theater": "unpaid",
+      "spring": "unpaid"
+    }
+  }
+}
