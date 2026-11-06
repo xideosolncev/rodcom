@@ -11,7 +11,7 @@ import react from '@vitejs/plugin-react';
  * - User/org site (<user>.github.io)    -> '/'
  * - Custom domain                       -> '/'
  */
-const REPO_BASE = '/kindergarten-site/';
+const REPO_BASE = '/rodcom/';
 
 export default defineConfig(({ command }) => ({
   plugins: [react()],
